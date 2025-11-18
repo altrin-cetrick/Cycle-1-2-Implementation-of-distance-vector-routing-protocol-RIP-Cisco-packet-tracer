@@ -46,7 +46,7 @@ To connect computers in multiple networks using Distance Vector Routing Protocol
 *(Insert diagram or screenshot from Packet Tracer)*
 
 ---
-<img width="1082" height="423" alt="image" src="https://github.com/user-attachments/assets/c87b4e16-a5ab-4f20-acba-4140468d3b4d" />
+<img width="1046" height="561" alt="image" src="https://github.com/user-attachments/assets/04f3d6b4-edba-4702-b416-202002021d7b" />
 
 ## 🧭 PROCEDURE
 
@@ -141,7 +141,8 @@ C:\> ping 192.168.3.2
 
 ## 📤 OUTPUT
 ---
-<img width="972" height="487" alt="image" src="https://github.com/user-attachments/assets/dbb66617-e002-49e9-aba7-4051c2831995" />
+<img width="1919" height="1079" alt="Screenshot 2025-11-15 104206" src="https://github.com/user-attachments/assets/735a04b0-205c-4e9c-ba73-50c36a08335f" />
+
 
 ## 📝 RESULT
 Thus, the computers in multiple networks using Distance Vector Routing Protocol are successfully connected and the connectivity between them is verified.
