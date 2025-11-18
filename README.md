@@ -122,7 +122,7 @@ R 192.168.3.0 [120/1] via 192.168.2.2, FastEthernet0/1
 R 192.168.4.0 [120/1] via 192.168.2.2, FastEthernet0/1
 ```
 ---
-<img width="882" height="687" alt="image" src="https://github.com/user-attachments/assets/cdc69c5a-fd55-4456-8f96-b4d7cbbb0f11" />
+<img width="1043" height="609" alt="image" src="https://github.com/user-attachments/assets/e424f680-4500-4bb0-908a-da4585b35950" />
 
 ### Expected output on Router1:
 ```
@@ -130,7 +130,7 @@ R 192.168.1.0 [120/1] via 192.168.2.1, FastEthernet0/0
 R 192.168.2.0 [120/1] via 192.168.2.1, FastEthernet0/0
 ```
 ---
-<img width="864" height="839" alt="image" src="https://github.com/user-attachments/assets/d9170e29-0377-4661-83a4-7c3df139bfb4" />
+<img width="993" height="588" alt="image" src="https://github.com/user-attachments/assets/93d3b605-e719-4215-ad0b-ce083de736c5" />
 
 ## 📶 Ping Test Between PCs
 Example: Ping from PC0 to PC3
